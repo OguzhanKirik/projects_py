@@ -9,7 +9,6 @@ class GameStats():
         self.game_active = False
         self.score = 0
         self.level = 1
-        
         # High score should never be reset.
         self.high_score = 0
     
